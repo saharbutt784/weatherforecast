@@ -12,12 +12,6 @@ A clean and responsive web application that provides real-time weather forecasts
 * **HTML5** - Structured content
 * **CSS3** - Custom styling and layout (Flexbox/Grid)
 * **JavaScript (ES6+)** - Fetching API data and handling DOM manipulation
-* **Weather API** - OpenWeatherMap API (or whichever provider you used)
+* **Weather API** - OpenWeatherMap API
 
-## 📦 Installation & Setup
-
-If you want to run this project locally, follow these simple steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/saharbutt784/weatherforecast.git](https://github.com/saharbutt784/weatherforecast.git)
+* 
