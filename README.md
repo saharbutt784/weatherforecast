@@ -14,4 +14,3 @@ A clean and responsive web application that provides real-time weather forecasts
 * **JavaScript (ES6+)** - Fetching API data and handling DOM manipulation
 * **Weather API** - OpenWeatherMap API
 
-* 
