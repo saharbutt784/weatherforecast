@@ -1,0 +1,21 @@
+# Dependency folders (The #1 cause of massive repos)
+node_modules/
+venv/
+env/
+.venv/
+
+# Environment variables (Never push these!)
+.env
+.env.local
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE/Editor settings
+.vscode/
+.idea/
+
+# Compiled Python files (if applicable)
+__pycache__/
+*.pyc
